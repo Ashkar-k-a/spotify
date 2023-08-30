@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../facebook"
+	},
+	{
+		"path": "../HTML sample"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "spotify"
+  }
+}
